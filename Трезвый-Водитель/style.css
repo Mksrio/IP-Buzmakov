@@ -416,6 +416,10 @@ nav{
         width: 400px;
     }
 
+    .text-user{
+    width: 200px;
+}
+
     .navbar{
         width: 320.969px;
         display: block;
