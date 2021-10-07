@@ -318,7 +318,7 @@ nav{
     background-color: #fff;
 }
 
-@media  (max-width: 700px) {
+@media  (max-width: 800px) {
     .footer-text-user{
         padding-top: 10px;
   display: none;
