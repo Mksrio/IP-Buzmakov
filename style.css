@@ -157,10 +157,6 @@ span {
       margin: 0px;
 }
 
-.text-user:hover{
-    background-color: #fff;
-}
-
 .input:checked ~ .text-user {
   display: block;
 }
@@ -181,10 +177,6 @@ span {
 }
 
 .footer-text-user p{margin: 0px;}
-
-.footer-text-user:hover{
-    background-color: #fff;
-}
 
 .input:checked ~ .footer-text-user {
   display: block;
@@ -325,7 +317,7 @@ nav{
    text-align: center;
 
   color: #fff;
-  font-size: 20px;
+  font-size: 18px;
 }
 
 .footer-text-user h2{
@@ -335,18 +327,6 @@ nav{
 }
 
 .footer-text-user p{margin: 0px;}
-
-.footer-text-user:hover{
-    background-color: #808080;
-}
-
-.footer-title-user:hover  {
-  background-color: #808080;
-}
-
-.input:checked ~ .footer-title-user{
-  background-color: #808080;
-}
 
 .footer-item-user{
     padding-top: 20px;
