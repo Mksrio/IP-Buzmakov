@@ -24,7 +24,7 @@ header{
 
 #Layer_2{
     width: 100px;
-    padding-top: 40px;
+    padding-top: 10px;
     padding-left: 20px;
 }
 
@@ -73,6 +73,11 @@ ul {
     padding: 0px;
     border-radius: 0px;
 }
+
+  .bars{
+      text-align: center;
+      padding-left: 20px;
+  }
 
 .footer-header-bars{
 display: flex;
@@ -422,6 +427,16 @@ nav{
         margin-left: 20px;
         text-align: center;
     }
+
+  .header-bars a{
+      width: 142.922px;
+      text-align: center;
+  }  
+
+  .bars{
+      text-align: center;
+      padding-left: 20px;
+  }
 
     #img{
         width: 100%;
