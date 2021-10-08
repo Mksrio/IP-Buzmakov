@@ -431,6 +431,9 @@ nav{
     font-size: 14px;
 }
 
+.text-user a{
+    font-size: 14px;
+}
     .navbar{
         width: 100%;
         display: block;
