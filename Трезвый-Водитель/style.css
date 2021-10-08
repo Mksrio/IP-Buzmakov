@@ -430,12 +430,10 @@ nav{
 
   .header-bars a{
       width: 142.922px;
-      text-align: center;
   }  
 
   .bars{
-      text-align: center;
-      padding-left: 10px;
+      padding-left: 0px;
   }
 
     #img{
