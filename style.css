@@ -381,6 +381,7 @@ nav{
 
     .item-user{
         margin-left: 0px;
+        padding-right: 10px;
     }
 
     .footer-header-bars{
@@ -417,7 +418,7 @@ nav{
     }
 
     .text-user{
-    width: 170px;
+    width: 180px;
 }
 
 .a{
