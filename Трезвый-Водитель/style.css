@@ -321,7 +321,7 @@ nav{
 @media  (max-width: 700px) {
     .footer-text-user{
         padding-top: 10px;
-  display: none;
+  display: block;
    text-align: center;
 
   color: #fff;
